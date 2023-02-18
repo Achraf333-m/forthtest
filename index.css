@@ -1,0 +1,45 @@
+.head {
+  color: rgb(131, 85, 174);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 900;
+  margin-left: 50%;
+}
+
+.titl {
+  margin-left: 50%;
+}
+.foote {
+  margin-left: 70%;
+}
+.prag {
+  margin-right: 70%;
+}
+.parag {
+  color: rgb(42, 41, 81);
+  margin-left: 50%;
+  display: block;
+}
+.text {
+  color: rgb(41, 57, 70);
+  margin-left: 50%;
+}
+section {
+  height: 80vh;
+  border: 2px solid black;
+}
+#home {
+  background-color: rgb(201, 194, 210);
+}
+#info {
+    background-color: rgb(66, 214, 214);
+}
+#footer {
+    background-color: rgb(86, 86, 210);
+}
+a {
+    color: black;text-underline-offset: 10000%;
+}
+.foot {
+  width: 50vw;
+}
